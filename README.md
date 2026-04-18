@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Sohag%20Karmokar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,50:4d79ff,100:00c6ff&height=220&section=header&text=Sohag%20Karmokar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sohag;Software+Engineering+Student;Full+Stack+Web+Developer+in+Progress;Exploring+AI+%26+Machine+Learning;Building+Real+World+Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sohag;CSE+Student+from+Bangladesh;Full+Stack+Web+Developer+in+Progress;Exploring+AI+%26+Machine+Learning;Building+Real+World+Projects+🚀"/>
 </p>
 ---
 
