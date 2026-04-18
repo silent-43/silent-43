@@ -2,9 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d4d,50:4d79ff,100:00c6ff&height=220&section=header&text=Sohag%20Karmokar&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
+<div align="center">
+
+<table>
+<tr>
+<td style="border:2px solid #00c6ff; border-radius:15px; padding:20px; background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sohag;CSE+Student+from+Bangladesh;Full+Stack+Web+Developer+in+Progress;Exploring+AI+%26+Machine+Learning;Building+Real+World+Projects+🚀"/>
 </p>
+
+</td>
+</tr>
+</table>
+
+</div>
 ---
 
 ## 🧠 About Me
