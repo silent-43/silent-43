@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sohag;Software+Engineering+Student;Full+Stack+Developer+in+Progress;React+%7C+Python+Learner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Sohag;Software+Engineering+Student;Full+Stack+Web+Developer+in+Progress;Exploring+AI+%26+Machine+Learning;Building+Real+World+Projects"/>
 </p>
-
 ---
 
 ## 🧠 About Me
