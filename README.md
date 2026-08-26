@@ -18,12 +18,8 @@
 - 🗄️ Working with **MongoDB & MySQL**
 - 🎨 Creating responsive interfaces using **Tailwind CSS & DaisyUI**
 - 🚀 Deploying applications using **Firebase, Vercel, Netlify & Render**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🧠 Interested in **Computer Vision & Deep Learning**
 - 🧩 Passionate about clean UI, reusable components and scalable backend systems
-- 🎯 Goal: Become a professional **Full Stack Developer with AI integration skills**
-
-![Profile Views](https://komarev.com/ghpvc/?username=silent-43&color=0e75b6&style=flat-square)
+- 🎯 Goal: Become a professional **Full Stack Developer**
 
 <br clear="right"/>
 
@@ -36,11 +32,9 @@
 - 🖥️ Node.js + Express.js backend development
 - 🔗 RESTful API development
 - 🍃 MongoDB database integration
-- 🔐 Backend security and environment variables
+- 🔐 Authentication & backend security
 - 🚀 Full-stack application deployment
-- 🤖 AI & Machine Learning fundamentals
-- 👁️ Exploring Computer Vision
-- 🧠 Exploring Deep Learning
+- 🧠 Improving problem-solving skills
 
 ---
 
@@ -143,6 +137,7 @@ Currently focusing on building complete web applications from frontend to backen
 A full-stack phone management application built with **React.js, Node.js, Express.js and MongoDB**.
 
 **Features:**
+
 - 📱 Phone listing and details
 - ➕ Add new phones
 - ✏️ Update phone information
@@ -167,6 +162,7 @@ React.js • JavaScript • React Router • Tailwind CSS • DaisyUI • Node.j
 A modern and responsive news portal built with **React.js**.
 
 **Features:**
+
 - 📰 Category-based news browsing
 - 🔥 Latest news marquee
 - 📖 News details
@@ -185,7 +181,7 @@ React.js • React Router • Firebase • Tailwind CSS • JavaScript
 
 ### 💼 CareerConnect — MERN Job Portal
 
-A MERN-stack job portal project designed to connect job seekers and employers.
+A MERN-stack job portal designed to connect job seekers and employers.
 
 **Tech Stack:**  
 React.js • Node.js • Express.js • MongoDB • REST API • Authentication
@@ -230,8 +226,19 @@ Java • OOP • Software Design Patterns • Clean Code
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=silent-43&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent-43&layout=compact&theme=transparent&hide_border=true" height="165"/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=silent-43&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" 
+  height="170"
+  alt="Sohag's GitHub Statistics"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent-43&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" 
+  height="170"
+  alt="Sohag's Top Languages"
+/>
+
 </p>
 
 ---
@@ -239,7 +246,12 @@ Java • OOP • Software Design Patterns • Clean Code
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=silent-43&theme=transparent&hide_border=true"/>
+
+<img 
+  src="https://streak-stats.demolab.com/?user=silent-43&theme=tokyonight&hide_border=true"
+  alt="Sohag's GitHub Streak"
+/>
+
 </p>
 
 ---
@@ -247,7 +259,12 @@ Java • OOP • Software Design Patterns • Clean Code
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+<img 
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
 </p>
 
 ---
@@ -280,7 +297,7 @@ Java • OOP • Software Design Patterns • Clean Code
 
 <p align="center">
 
-**Learn → Build → Debug → Improve → Repeat 🚀**
+<strong>Learn → Build → Debug → Improve → Repeat 🚀</strong>
 
 </p>
 
