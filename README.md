@@ -10,7 +10,6 @@
 
 - 🎓 CSE Student from Bangladesh 🇧🇩
 - 📚 B.Sc. in Computer Science & Engineering
-- 📊 Current CGPA: **3.21 / 4.00**
 - 💻 Developing **Full Stack Web Applications**
 - ⚛️ Building modern applications with **React.js**
 - 🖥️ Developing backend APIs with **Node.js & Express.js**
@@ -75,10 +74,6 @@ Currently focusing on building complete web applications from frontend to backen
 </a>
 
 <a href="https://react.dev/">
-<img src="https://skillicons.dev/icons?i=react" width="45"/>
-</a>
-
-<a href="https://reactrouter.com/">
 <img src="https://skillicons.dev/icons?i=react" width="45"/>
 </a>
 
@@ -227,16 +222,14 @@ Java • OOP • Software Design Patterns • Clean Code
 
 <p align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=silent-43&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" 
-  height="170"
-  alt="Sohag's GitHub Statistics"
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=silent-43&theme=tokyonight"
+  alt="GitHub Statistics"
 />
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent-43&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" 
-  height="170"
-  alt="Sohag's Top Languages"
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=silent-43&theme=tokyonight"
+  alt="Most Used Languages"
 />
 
 </p>
@@ -247,9 +240,9 @@ Java • OOP • Software Design Patterns • Clean Code
 
 <p align="center">
 
-<img 
+<img
   src="https://streak-stats.demolab.com/?user=silent-43&theme=tokyonight&hide_border=true"
-  alt="Sohag's GitHub Streak"
+  alt="GitHub Streak"
 />
 
 </p>
@@ -260,7 +253,7 @@ Java • OOP • Software Design Patterns • Clean Code
 
 <p align="center">
 
-<img 
+<img
   src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   alt="GitHub Contribution Snake"
 />
