@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sohag+Karmokar;CSE+Student+from+Bangladesh;Full+Stack+Web+Developer+in+Progress;React+%7C+Node.js+%7C+MongoDB;Exploring+AI+%26+Machine+Learning;Building+Real+World+Projects+%F0%9F%9A%80"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Sohag+Karmokar;CSE+Student+from+Bangladesh;Developing+Full+Stack+Web+Applications;React+%7C+Node.js+%7C+Express.js+%7C+MongoDB;Building+Modern+Responsive+Web+Applications;Exploring+AI+%26+Machine+Learning;Turning+Ideas+Into+Real+World+Projects+%F0%9F%9A%80"/>
 </p>
 
 ---
@@ -15,97 +15,182 @@
 - 🎓 CSE Student from Bangladesh 🇧🇩
 - 📚 B.Sc. in Computer Science & Engineering
 - 📊 Current CGPA: **3.21 / 4.00**
-- 💻 Learning **Full Stack Web Development**
-- ⚛️ Building modern web applications with **React.js**
-- 🖥️ Exploring **Node.js, Express.js & REST APIs**
+- 💻 Developing **Full Stack Web Applications**
+- ⚛️ Building modern applications with **React.js**
+- 🖥️ Developing backend APIs with **Node.js & Express.js**
+- 🔗 Working with **RESTful APIs**
 - 🗄️ Working with **MongoDB & MySQL**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🚀 Passionate about building real-world applications
-- 🧩 Interested in clean UI, responsive design and scalable backend systems
-- 🎯 Goal: Become a **Full Stack Developer with AI integration skills**
+- 🎨 Creating responsive interfaces using **Tailwind CSS & DaisyUI**
+- 🚀 Deploying applications using **Firebase, Vercel, Netlify & Render**
+- 🤖 Exploring **Artificial Intelligence & Machine Learning**
+- 🧠 Interested in **Computer Vision & Deep Learning**
+- 🧩 Passionate about clean UI, reusable components and scalable backend systems
+- 🎯 Goal: Become a professional **Full Stack Developer with AI integration skills**
 
-![Profile Views](https://komarev.com/ghpvc/?username=silent-43&color=0e75b6)
+![Profile Views](https://komarev.com/ghpvc/?username=silent-43&color=0e75b6&style=flat-square)
 
 ---
 
 ## 🚀 Currently Working On
 
-- ⚛️ React.js & modern frontend development
+- ⚛️ Developing Full Stack Web Applications
+- 🎨 Modern React.js frontend development
 - 🖥️ Node.js + Express.js backend development
 - 🔗 RESTful API development
 - 🍃 MongoDB database integration
-- 🚀 Full-stack project deployment
+- 🔐 Backend security and environment variables
+- 🚀 Full-stack application deployment
 - 🤖 AI & Machine Learning fundamentals
-- 🧠 Exploring Computer Vision & Deep Learning
+- 👁️ Exploring Computer Vision
+- 🧠 Exploring Deep Learning
 
 ---
 
-## 🤖 AI & Machine Learning
+## 🧠 What I'm Learning
 
-I'm currently exploring Artificial Intelligence and Machine Learning alongside web development.
+### 🌐 Full Stack Web Development
 
-### 🧠 RxHandBD – Handwritten Recognition Project
+Currently focusing on building complete web applications from frontend to backend.
 
-- ✍️ Handwritten recognition project
-- 📊 Kaggle-based ML experimentation
-- 🧠 Exploring Deep Learning
-- 👁️ Exploring Computer Vision
+- React.js
+- React Router
+- JavaScript
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- MySQL
+- Authentication
+- API Integration
+- Deployment
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+Alongside web development, I'm exploring AI/ML technologies.
+
+- 🧠 Machine Learning fundamentals
+- 📊 Data analysis and experimentation
+- 👁️ Computer Vision
+- 🧠 Deep Learning
+- ✍️ Handwritten recognition
+- 📈 Model evaluation
+
+---
+
+## 🤖 AI & Machine Learning Project
+
+### ✍️ RxHandBD – Handwritten Recognition
+
+An AI/ML project focused on handwritten recognition.
+
+**Current exploration includes:**
+
+- ✍️ Handwritten character recognition
+- 📊 Kaggle-based experimentation
+- 🧠 Deep Learning fundamentals
+- 👁️ Computer Vision
 - 📈 Model accuracy: approximately **84%**
 - 📉 Loss: approximately **0.79**
 
 ### 🌐 Kaggle
 
-- 📌 Profile: https://www.kaggle.com/sohagkarmokar
-- 📊 RxHandBD Project:
-  https://www.kaggle.com/code/sohagkarmokar/rxhandbd
+**Profile:**  
+https://www.kaggle.com/sohagkarmokar
+
+**RxHandBD Project:**  
+https://www.kaggle.com/code/sohagkarmokar/rxhandbd
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### 💻 Frontend
+## 💻 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs"/>
 </p>
 
-### 🖥️ Backend & Database
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+- React Router
+- Tailwind CSS
+- DaisyUI
+- Next.js
+
+---
+
+## 🖥️ Backend & Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
 </p>
 
-### 🛠️ Tools & Deployment
+- Node.js
+- Express.js
+- RESTful APIs
+- MongoDB
+- MySQL
+- MongoDB Node.js Driver
+- CORS
+- dotenv
+- CRUD Operations
+
+---
+
+## 🛠️ Tools & Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vite,firebase,vercel,netlify"/>
 </p>
 
+- Git
+- GitHub
+- Vite
+- Firebase Hosting
+- Vercel
+- Netlify
+- Render
+
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 📱 Phone Collection – Full Stack
+## 📱 Phone Collection – Full Stack
 
-A full-stack phone management application built with React.js, Node.js, Express.js and MongoDB.
+A modern full-stack phone management application built with **React.js, Node.js, Express.js and MongoDB**.
 
-**Features:**
+### ✨ Features
+
 - 📱 Display all phones
 - ➕ Add new phone
 - 🔍 View phone details
 - ✏️ Update phone information
 - 🗑️ Delete phone
-- 🖼️ Phone image management
-- 📱 Responsive UI
+- 🖼️ Display phone images
+- 📱 Fully responsive UI
 - 🎨 Tailwind CSS & DaisyUI
-- 🔗 RESTful API
+- 🔗 RESTful API integration
 - 🍃 MongoDB database
+- 🔐 Environment variable support
+- 🌍 CORS enabled
 - 🚀 Firebase Hosting + Render deployment
 
-**Frontend:**  
+### 🧩 Technologies
+
+**Frontend:** React.js, JavaScript, React Router, Tailwind CSS, DaisyUI, Vite
+
+**Backend:** Node.js, Express.js, MongoDB, REST API
+
+**Deployment:** Firebase Hosting + Render
+
+### 🔗 Links
+
+**Frontend Repository:**  
 https://github.com/silent-43/phone-collection-client
 
-**Backend:**  
+**Backend Repository:**  
 https://github.com/silent-43/phone-collection-server
 
 **Live Website:**  
@@ -116,18 +201,26 @@ https://phone-collection-backend.onrender.com
 
 ---
 
-### 📰 Dragon News
+## 📰 Dragon News
 
-A modern and responsive news portal built with React.js.
+A modern and responsive news portal built with **React.js**.
 
-**Features:**
+### ✨ Features
+
 - 📰 Category-based news browsing
 - 🔥 Latest news marquee
 - 📖 News details
-- 🔗 Sharing functionality
+- 🔗 News sharing functionality
 - 🔐 Firebase Authentication
 - 👤 User profiles
+- 📱 Responsive design
 - 🚀 Firebase Hosting deployment
+
+### 🧩 Technologies
+
+React.js • React Router • Firebase • Tailwind CSS • JavaScript
+
+### 🔗 Links
 
 **GitHub:**  
 https://github.com/silent-43/Dragon-News
@@ -137,49 +230,111 @@ https://dragon-news-c8d63.web.app/
 
 ---
 
-### 💳 Payoo Banking System
+## 💼 CareerConnect – MERN Job Portal
 
-A Java-based banking system focused on Object-Oriented Programming concepts.
+A MERN-stack job portal project designed to connect job seekers and employers.
 
-🔗 https://github.com/silent-43/Payoo-Project_by_SK
+### ✨ Technologies
+
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST APIs
+- Authentication
+- Vercel
+- Render
+
+### 🔗 Links
+
+**Backend:**  
+https://careerconnect-backend-wedf.onrender.com/
 
 ---
 
-### 📚 English Janala
+## 💳 Payoo Banking System
+
+A Java-based banking system developed to practice **Object-Oriented Programming** concepts.
+
+### 🧩 Concepts
+
+- Java
+- OOP
+- Classes & Objects
+- Encapsulation
+- Inheritance
+- Polymorphism
+
+🔗 **Repository:**  
+https://github.com/silent-43/Payoo-Project_by_SK
+
+---
+
+## 📚 English Janala
 
 An interactive English learning web application built with modern frontend technologies.
 
-🔗 https://github.com/silent-43/english-janala
+### ✨ Features
+
+- 📖 Interactive vocabulary learning
+- 🔍 Search functionality
+- 📚 Lesson-based learning
+- 📱 Responsive UI
+
+🔗 **Repository:**  
+https://github.com/silent-43/english-janala
 
 ---
 
-### 🏦 Design Pattern Banking System
+## 🏦 Design Pattern Banking System
 
-A banking system project demonstrating the implementation of software design patterns.
+A banking system project focused on implementing **Software Design Patterns**.
 
-🔗 https://github.com/silent-43/SDP_PatternUses_BankingSystem
+### 🧩 Focus
+
+- Software Design Patterns
+- Object-Oriented Programming
+- Clean Architecture concepts
+- Reusable code structure
+
+🔗 **Repository:**  
+https://github.com/silent-43/SDP_PatternUses_BankingSystem
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=silent-43&show_icons=true&theme=transparent"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=silent-43&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent-43&layout=compact&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=silent-43&theme=transparent"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silent-43&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=silent-43&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -203,23 +358,47 @@ A banking system project demonstrating the implementation of software design pat
 
 ---
 
-## 🐍 Contribution Graph
+# 📌 Current Focus
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+💻 <strong>Developing Full Stack Web Applications</strong>
+
+<br/>
+
+⚛️ React.js • Node.js • Express.js • MongoDB
+
+<br/>
+
+🤖 AI/ML • Computer Vision • Deep Learning
+
+<br/>
+
+🚀 Building real-world projects and improving problem-solving skills
+
 </p>
 
 ---
 
-## 📌 Current Goal
+# 🎯 Career Goal
 
 <p align="center">
 
 <strong>
-Becoming a professional Full Stack Developer
-with strong Backend, Problem Solving,
-and AI/ML integration skills.
+Become a professional Full Stack Developer
+with strong Backend, Problem-Solving,
+System Design and AI/ML integration skills.
 </strong>
+
+</p>
+
+---
+
+## 💡 Developer Mindset
+
+<p align="center">
+
+> <strong>Learn → Build → Break → Debug → Improve → Repeat 🚀</strong>
 
 </p>
 
